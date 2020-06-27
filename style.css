@@ -1,0 +1,54 @@
+.main{
+    border: 3px solid blue;
+    width: 300px;
+    margin: 100px auto;
+    background-color:tan ;
+    padding: 10px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-shadow: 1px 1px 5px grey;
+}
+button{
+    border: 1px solid gray;
+    margin: 5px 2px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+}
+.input{
+    width: 87%;
+    background-color: black;
+    color: white;
+    height: 70px;
+    padding: 5px 15px 5px 15px;
+    border: 1px solid gray;
+    margin: 2px;
+    border-radius: 6px;
+    font-size: 28px;
+    text-align: right;
+    border: 1px solid white;
+}
+.clear:hover{
+    background-color: gray;
+}
+.clear{
+    width: 97.5%;
+    background-color: lightgray;
+    height: 40px;
+    margin: 5px 3px;
+}
+.btn{
+    width: 67px;
+    height: 35px;
+}
+.equal:hover{
+    background-color: teal;
+}
+.opr:hover{
+    background-color: tomato;
+}
